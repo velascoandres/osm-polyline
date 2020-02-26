@@ -7,7 +7,7 @@ from utils import reversar
 
 # api-endpoint
 URL = 'https://api.openrouteservice.org/v2/directions/driving-car'
-API_KEY = '5b3ce3597851110001cf62483ad9c77a1cc94f13a94ea2f28f226411'
+API_KEY = '<TU API-KEY>'
 
 # En este caso tengo coordenadas en este orden: [lat, lon]
 coordenadas = [
